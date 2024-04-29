@@ -3,14 +3,12 @@
     {
       "username": "user1",
       "password": "password1",
-      "score": 1000,
-      "business":"GASTRO"
+      "score": 1000
     },
     {
       "username": "user2",
       "password": "password2",
-      "score": 2000,
-      "business":"PANI"
+      "score": 2000
     }
   ]
 }
