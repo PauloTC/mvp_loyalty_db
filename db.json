@@ -12,5 +12,14 @@
       "score": 2000,
       "business":"PANI"
     }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Mayonesa Macbel base",
+      "points": 4600,
+      "unit": "1 caja de 4KG",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
+    }
   ]
 }
