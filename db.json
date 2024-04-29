@@ -14,80 +14,85 @@
     }
   ],
   "products": [
-    "gastro": [
-       {
-        "id": 1,
-        "name": "Mayonesa Macbel base",
-        "points": 4600,
-        "unit": "1 caja de 4KG",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 2,
-        "name": "Ketchup Alacena sachets x 8gr",
-        "points": 2700,
-        "unit": "1 caja de 250 sachets",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 3,
-        "name": "Mostaza Alacena sachets x 8gr",
-        "points": 3000,
-        "unit": "1 caja de 250 sachets",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 4,
-        "name": "Mayonesa Alacena sachets x 8gr",
-        "points": 3400,
-        "unit": "1 caja de 250 sachets",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 5,
-        "name": "Ketchup Alpesa",
-        "points": 2000,
-        "unit": "1 caja de 250 sachets",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 6,
-        "name": "Mayonesa Alpesa",
-        "points": 2000,
-        "unit": "1 caja de 250 sachets",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 7,
-        "name": "Aceite Friol bidon 5L",
-        "points": 900,
-        "unit": "12 ud es 1 caja",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 8,
-        "name": "Aceite Único 900ml",
-        "points": 900,
-        "unit": "12 ud es 1 caja",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 9,
-        "name": "Sal Alpesa 1 kg",
-        "points": 160,
-        "unit": "12 ud es 1 caja",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      },
-      {
-        "id": 10,
-        "name": "Televisor AOC Led 50”",
-        "points": 315000,
-        "unit": "",
-        "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png"
-      }
-    ],
-    "pani": [
-      
-    ]
+     {
+      "id": 1,
+      "name": "Mayonesa Macbel base",
+      "points": 4600,
+      "unit": "1 caja de 4KG",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 2,
+      "name": "Ketchup Alacena sachets x 8gr",
+      "points": 2700,
+      "unit": "1 caja de 250 sachets",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 3,
+      "name": "Mostaza Alacena sachets x 8gr",
+      "points": 3000,
+      "unit": "1 caja de 250 sachets",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 4,
+      "name": "Mayonesa Alacena sachets x 8gr",
+      "points": 3400,
+      "unit": "1 caja de 250 sachets",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 5,
+      "name": "Ketchup Alpesa",
+      "points": 2000,
+      "unit": "1 caja de 250 sachets",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 6,
+      "name": "Mayonesa Alpesa",
+      "points": 2000,
+      "unit": "1 caja de 250 sachets",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 7,
+      "name": "Aceite Friol bidon 5L",
+      "points": 900,
+      "unit": "12 ud es 1 caja",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 8,
+      "name": "Aceite Único 900ml",
+      "points": 900,
+      "unit": "12 ud es 1 caja",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 9,
+      "name": "Sal Alpesa 1 kg",
+      "points": 160,
+      "unit": "12 ud es 1 caja",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    },
+    {
+      "id": 10,
+      "name": "Televisor AOC Led 50”",
+      "points": 315000,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "GASTRO" 
+    }
   ]
 }
