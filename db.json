@@ -91,6 +91,70 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
       "business": "GASTRO" 
+    },
+    {
+      "id": 11,
+      "name": "Levadura instantánea Nicolini 500g",
+      "points": 960,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 12,
+      "name": "Mejorador de masas Nicolini 5Kg",
+      "points": 4000,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 13,
+      "name": "Vainilla Umsha 1Lt",
+      "points": 600,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 14,
+      "name": "Sal Alpesa 1 kg",
+      "points": 160,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 15,
+      "name": "Televisor AOC Led 50”",
+      "points": 315000,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 16,
+      "name": "Aceite Único 900ml",
+      "points": 900,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 17,
+      "name": "Margarina Primavera Multiuso 2kg",
+      "points": 1500,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
+    },
+    {
+      "id": 18,
+      "name": "Margarina Sello de Oro 2kg",
+      "points": 1500,
+      "unit": "",
+      "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
+      "business": "PANI" 
     }
   ]
 }
