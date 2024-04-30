@@ -1,16 +1,25 @@
 {
   "users": [
     {
-      "username": "user1",
-      "password": "password1",
+      "username": "20604816123",
+      "name": "ALEATORIO TEAM SAC",
+      "password": "20604816123",
       "business": "GASTRO",
-      "score": 1000
+      "score": 5000
     },
     {
-      "username": "user2",
-      "password": "password2",
+      "username": "20100047218",
+      "name": "BANCO DE CREDITO DEL PERU",
+      "password": "20100047218",
       "business": "PANI",
-      "score": 2000
+      "score": 8000
+    },
+    {
+      "username": "20100130204",
+      "name": "BBVA BANCO CONTINENTAL",
+      "password": "20100130204",
+      "business": "PANI",
+      "score": 1000
     }
   ],
   "products": [
