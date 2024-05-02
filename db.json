@@ -1,5 +1,26 @@
 {
   "users": [
+     {
+      "username": "1668564",
+      "name": "Rosa Ramos Gutierrez De Levano",
+      "password": "1668564",
+      "business": "PANI",
+      "score": 0
+    },
+    {
+      "username": "1001969",
+      "name": "Elmer Romero Bañez",
+      "password": "1001969",
+      "business": "PANI",
+      "score": 0
+    },
+    {
+      "username": "1505295",
+      "name": "Anibal Santiago Blas Jaco",
+      "password": "1505295",
+      "business": "PANI",
+      "score": 0
+    },
     {
       "username": "20604816123",
       "name": "ALEATORIO TEAM SAC",
