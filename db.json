@@ -22,25 +22,18 @@
       "score": 0
     },
     {
-      "username": "20604816123",
+      "username": "20604816124",
       "name": "ALEATORIO TEAM SAC",
-      "password": "20604816123",
+      "password": "20604816124",
       "business": "GASTRO",
       "score": 5000
     },
     {
-      "username": "20100047218",
+      "username": "20100047219",
       "name": "BANCO DE CREDITO DEL PERU",
-      "password": "20100047218",
+      "password": "20100047219",
       "business": "PANI",
       "score": 8000
-    },
-    {
-      "username": "20100130204",
-      "name": "BBVA BANCO CONTINENTAL",
-      "password": "20100130204",
-      "business": "PANI",
-      "score": 1000
     }
   ],
   "products": [
