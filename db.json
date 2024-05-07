@@ -1,6 +1,27 @@
 {
   "users": [
      {
+      "username": "1683896",
+      "name": "Milton Pariona",
+      "password": "1683896",
+      "business": "PANI",
+      "score": 0
+    },
+    {
+      "username": "1508475",
+      "name": "Olegario Silva Ponte",
+      "password": "1508475",
+      "business": "PANI",
+      "score": 0
+    },
+    {
+      "username": "1697101",
+      "name": "La Cena Chicken",
+      "password": "1697101",
+      "business": "GASTRO",
+      "score": 0
+    },
+    {
       "username": "1668564",
       "name": "Rosa Ramos Gutierrez De Levano",
       "password": "1668564",
