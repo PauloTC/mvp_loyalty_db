@@ -1,6 +1,27 @@
 {
   "users": [
      {
+      "username": "1524447",
+      "name": "Sandra Reyes Fajardo",
+      "password": "1524447",
+      "business": "GASTRO",
+      "score": 0
+     },
+     {
+      "username": "1541460",
+      "name": "INVERSIONES COLEMAN SAC",
+      "password": "1541460",
+      "business": "GASTRO",
+      "score": 0
+    },
+    {
+      "username": "1365910",
+      "name": "Juan Espinoza Cipriano",
+      "password": "1365910",
+      "business": "GASTRO",
+      "score": 0
+    },
+    {
       "username": "1683896",
       "name": "Milton Pariona",
       "password": "1683896",
