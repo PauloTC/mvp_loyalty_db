@@ -1,6 +1,20 @@
 {
   "users": [
      {
+      "username": "1361041",
+      "name": "Gustos y Placeres S.A.C",
+      "password": "1361041",
+      "business": "PANI",
+      "score": 0
+     },
+     {
+      "username": "1673630",
+      "name": "Sonia Dominga Espinoza Marin",
+      "password": "1673630",
+      "business": "PANI",
+      "score": 0
+     },
+     {
       "username": "1715967",
       "name": "Vicente Coicco Merino",
       "password": "1715967",
