@@ -114,7 +114,7 @@
       "unit": "1 caja de 4KG",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714395904/mayonesa_rg8me3.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 2,
@@ -123,7 +123,7 @@
       "unit": "1 caja de 250 sachets",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401004/ketchup_alacena_gy4hga.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 3,
@@ -132,7 +132,7 @@
       "unit": "1 caja de 250 sachets",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401004/mostaza_judiwd.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 4,
@@ -141,7 +141,7 @@
       "unit": "1 caja de 250 sachets",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401187/mayonesa_alacena_gdiwv6.png",
       "business": "GASTRO",
-      "avaliable": false
+      "available": false
     },
     {
       "id": 5,
@@ -150,7 +150,7 @@
       "unit": "1 caja de 250 sachets",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401186/ketchup_alpesa_s6o0we.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 6,
@@ -159,7 +159,7 @@
       "unit": "1 caja de 250 sachets",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401187/mayonesa_alpesa_psjv3t.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 7,
@@ -168,7 +168,7 @@
       "unit": "12 ud es 1 caja",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401185/aceite_friol_oxon7p.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 8,
@@ -177,7 +177,7 @@
       "unit": "12 ud es 1 caja",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401185/aceite_unico_huyk0f.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 9,
@@ -186,7 +186,7 @@
       "unit": "12 ud es 1 caja",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401188/sal_alpesa_ilbnes.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 10,
@@ -195,7 +195,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401189/televisor_mlpkdy.png",
       "business": "GASTRO",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 11,
@@ -204,7 +204,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401894/levadura_prrvnt.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 12,
@@ -213,7 +213,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401897/mejorador_nicolini_lsm4qs.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 13,
@@ -222,7 +222,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401897/vainilla_yzp2da.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 14,
@@ -231,7 +231,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401188/sal_alpesa_ilbnes.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 15,
@@ -240,7 +240,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401189/televisor_mlpkdy.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 16,
@@ -249,7 +249,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401185/aceite_unico_huyk0f.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 17,
@@ -258,7 +258,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401893/margarina_primavera_lvoqel.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     },
     {
       "id": 18,
@@ -267,7 +267,7 @@
       "unit": "",
       "image": "https://res.cloudinary.com/freelancepaulo/image/upload/v1714401894/margarina_sello_mkmbgi.png",
       "business": "PANI",
-      "avaliable": true
+      "available": true
     }
   ]
 }
